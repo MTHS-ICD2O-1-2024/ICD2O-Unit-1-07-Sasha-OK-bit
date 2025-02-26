@@ -35,3 +35,8 @@ img {
   padding: 100px;
   width: 40%;
 }
+
+button {color: crimson;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+size: 43%;
+}
